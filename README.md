@@ -29,3 +29,5 @@ Start the server
 ```bash
   uvicorn main:app --reload
 ```
+
+Documentation is located [here](http://localhost:8000)
